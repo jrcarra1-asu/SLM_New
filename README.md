@@ -104,7 +104,3 @@ Iterate in the simulator until you receive “Complete” — then export the JS
 
 For Unity scene integration help, ONNX export assistance, or custom fine-tuning, open an issue.
 
----
-
-*Optimized for Juan’s Vizitech VR-XR Project | Phoenix, AZ | May 2026*  
-*Honest, technical, production-ready — rule-based today, neural SLM tomorrow.*
